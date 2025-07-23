@@ -1,5 +1,6 @@
 # KonataClickerETH
 Konata Clicker but now with Blockchain
+<br>
 Currently I haven't fully set up the data storing system so users data is technically only
 being fetched and stored on one address
 
